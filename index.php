@@ -1,0 +1,33 @@
+<?php
+echo "<html>";
+echo "<head>";
+echo "<title> Menu de ejercicios</title>";
+echo "</head>";
+echo "<body><h2>";
+echo "Guia de ejercicios";
+echo "<li><a href='1ejercio.html'>Ejercicio 1</a></li>";
+echo "<li><a href='2ejercicio.html'>Ejercicio 2</a></li>";
+echo "<li><a href='3ejercicio.html'>Ejercicio 3</a></li>";
+echo "<li><a href='4ejercicio.html'>Ejercicio 4</a></li>";
+echo "<li><a href='5ejercicio.html'>Ejercicio 5</a></li>";
+echo "<li><a href='6ejercicio.html'>Ejercicio 6</a></li>";
+echo "<li><a href='7ejercicio.html'>Ejercicio 7</a></li>";
+echo "<li><a href='8ejercicio.html'>Ejercicio 8</a></li>";
+echo "<li><a href='9ejercicio.html'>Ejercicio 9</a></li>";
+echo "<li><a href='10ejercicio.html'>Ejercicio 10</a></li>";
+echo "<li><a href='11ejercicio.html'>Ejercicio 11</a></li>";
+echo "<li><a href='12ejercicio.html'>Ejercicio 12</a></li>";
+echo "<li><a href='13ejercicio.html'>Ejercicio 13</a></li>";
+echo "<li><a href='14ejercicio.html'>Ejercicio 14</a></li>";
+echo "<li><a href='15ejercicio.html'>Ejercicio 15</a></li>";
+echo "<li><a href='16ejercicio.html'>Ejercicio 16</a></li>";
+echo "<li><a href='17ejercicio.html'>Ejercicio 17</a></li>";
+echo "<li><a href='18ejercicio.html'>Ejercicio 18</a></li>";
+echo "<li><a href='19ejercicio.html'>Ejercicio 19</a></li>";
+echo "<li><a href='20ejercicio.html'>Ejercicio 20</a></li>";
+echo "<li><a href='21ejercicio.html'>Ejercicio 21</a></li>";
+echo "<li><a href='22ejercicio.html'>Ejercicio 22</a></li>";
+echo "<li><a href='23ejercicio.html'>Ejercicio 23</a></li>";
+echo "<li><a href='24ejercicio.html'>Ejercicio 24</a></li>";
+echo "<li><a href='25ejercicio.html'>Ejercicio 25</a></li>";
+?>
